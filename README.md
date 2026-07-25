@@ -25,7 +25,7 @@
 ## 🚀 Quick access
 
 - [Get the code](https://claude.ai/public/artifacts/acca8060-2c02-4873-9d11-91604fd76017)
-- [Check your code and get an email from our agent.](https://claude.ai/public/artifacts/d3c9e000-edb7-4b33-8f86-aa81e9ffff16)
+- [Check your code and get an email from our agent.](https://claude.ai/public/artifacts/b3e5518b-9269-4c4a-89f1-e797ce7fb57d)
 
 ---
 
